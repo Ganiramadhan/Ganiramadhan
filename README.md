@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gani Ramadhan</h1>
-<h3 align="center">I'm a web developer specializing in creating responsive, user-friendly websites and delivering high-quality web solutions.</h3>
+<h3 align="left">Hi 👋, I'm Gani Ramadhan</h3>
 
-<br>
-<br>
 <table>
   <tr>
     <td>
-      - 🔭 I’m currently working on Fish Marketplace <br>
       - 🌱 I’m currently learning Golang, Java Spring Boot <br>
       - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript <br>
       - 👨‍💻 All of my projects are available at https://www.ganiipedia.my.id <br>
       - 💬 Ask me about Next Js, MERN <br>
-      - 📫 How to reach me ganiramadhan35@gmail.com
+      - 📫 How to reach me: <a href="https://ganiramadhan35@gmail.com">ganiramadhan35@gmail.com</a>
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="ganiramadhan" width="200" />
