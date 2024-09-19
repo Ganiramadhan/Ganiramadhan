@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gani Ramadhan</h1>
-<h3 align="center">A website developer with two years of experience, specializing in creating responsive, user-friendly websites and delivering high-quality web solutions.</h3>
+<h3 align="center">I'm a web developer specializing in creating responsive, user-friendly websites and delivering high-quality web solutions.</h3>
 
 <br>
 <br>
