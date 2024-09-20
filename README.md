@@ -10,7 +10,7 @@
       - 📫 How to reach me: <a href="https://ganiramadhan35@gmail.com">ganiramadhan35@gmail.com</a>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="ganiramadhan" width="200" />
+      <img src="https://i.pinimg.com/originals/58/44/d8/5844d899758edfa7a019562594bd02a1.gif" alt="ganiramadhan" width="200" />
     </td>
   </tr>
 </table>
