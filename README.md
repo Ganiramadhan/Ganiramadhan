@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      - 🌱 I’m currently learning Golang, Java Spring Boot <br>
+      - 🌱 I’m currently learning Typescript <br>
       - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript <br>
       - 👨‍💻 All of my projects are available at https://www.ganiipedia.my.id <br>
       - 💬 Ask me about Next Js, MERN <br>
