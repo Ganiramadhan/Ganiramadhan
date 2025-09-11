@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 20px;">
       - 🌱 I’m currently learning Typescript <br>
-      - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript <br>
-      - 👨‍💻 All of my projects are available at https://www.ganiipedia.my.id <br>
-      - 💬 Ask me about Next Js, MERN <br>
-      - 📫 How to reach me: <a href="https://ganiramadhan35@gmail.com">ganiramadhan35@gmail.com</a>
+      - 👯 I’m looking to collaborate on creating web projects related to JavaScript/TypeScript <br>
+      - 👨‍💻 All of my projects are available at <a href="https://gramadhan.cyou" target="_blank">https://gramadhan.cyou</a> <br>
+      - 💬 Ask me about Next.js, MERN, Golang <br>
+      - 📫 How to reach me: <a href="mailto:ganiramadhan35@gmail.com">ganiramadhan35@gmail.com</a>
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/58/44/d8/5844d899758edfa7a019562594bd02a1.gif" alt="ganiramadhan" width="200" />
@@ -16,27 +16,10 @@
 </table>
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 <table style="background-color: white; padding: 10px; border-radius: 10px;">
   <tr>
-    <!-- HTML -->
-    <td align="center">
-      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-      </a>
-    </td>
-    <!-- CSS -->
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </td>
-    <!-- Bootstrap -->
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-    </td>
     <!-- Tailwind -->
     <td align="center">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -53,12 +36,6 @@
     <td align="center">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-    </td>
-    <!-- Express -->
-    <td align="center">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
       </a>
     </td>
     <!-- Next.js -->
@@ -91,10 +68,28 @@
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
       </a>
     </td>
-    <!-- MySQL -->
+    <!-- Golang -->
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <a href="https://golang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- PostgreSQL -->
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- MongoDB -->
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- RabbitMQ -->
+    <td align="center">
+      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/>
       </a>
     </td>
     <!-- AWS -->
@@ -109,8 +104,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
       </a>
     </td>
+    <!-- Grafana -->
+    <td align="center">
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Kubernetes -->
+    <td align="center">
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 <hr>
 
